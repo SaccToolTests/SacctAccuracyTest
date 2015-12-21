@@ -1,4 +1,4 @@
-# SacctAccuracyTest
+# SACCT Accuracy Test
 This repository contains testware to test the accuracy of dependency analysis of static Software Architecture Compliance Checking (SACC) tools that analyse Java code. The instruction document explaines how the test should be conducted.
 Two separate tests are provided: the Benchmark test and the Freemind test. Per test, separate test code and score forms are available. 
 
